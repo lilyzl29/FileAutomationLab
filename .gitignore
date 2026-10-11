@@ -1,0 +1,4 @@
+*.tmp
+logs/
+.vscode/
+.DS_Store
